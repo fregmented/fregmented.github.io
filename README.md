@@ -7,7 +7,7 @@ Kotlin을 주로 안드로이드 개발에 사용하고 Flutter로 크로스플�
 
 ## My experience
 
-#### Languages
+### Languages
 - C(🌟🌟🌟⭐⭐): 상용 수준의 임베디드 애플리케이션을 개발할 수 있습니다.
 - C++(🌟🌟⭐⭐⭐): 임베디드 애플리케이션을 개발할때 C++도 같이 사용하며, 템플릿과 Boost에 대한 경험은 없습니다.
 - Java(🌟🌟🌟⭐⭐),Kotlin(🌟🌟🌟⭐⭐) : 엔드유저 및 서버사이드 애플리케이션을 프로토타이핑 할 수 있으며, 상용 수준의 안드로이드 애플리케이션을 개발할 수 있습니다.
@@ -15,7 +15,7 @@ Kotlin을 주로 안드로이드 개발에 사용하고 Flutter로 크로스플�
 - Go(🌟⭐⭐⭐⭐): 취미와 프로토타입 수준의 애플리케이션을 개발할 수 있습니다.
 - Dart(🌟🌟⭐⭐⭐): MVP수준에서 복잡한 애플리케이션과 상용수준에서 간단한 애플리케이션을 개발할 수 있습니다.
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 - Android(🌟🌟🌟⭐⭐): 간단한 커스텀뷰와 커스텀 다이얼로그, 서비스 및 논-블로킹 작업을 개발할 수 있습니다.
 - RxAndroid(🌟🌟⭐⭐⭐): Observable을 만들고 예외처리 등을 할 수 있습니다.
 - Flutter(🌟🌟⭐⭐⭐): 커스텀위젯과 iOS 및 Android를 위한 Flutter plugin을 개발할 수 있습니다.
@@ -23,7 +23,7 @@ Kotlin을 주로 안드로이드 개발에 사용하고 Flutter로 크로스플�
 - SQLAlchemy(🌟🌟⭐⭐⭐): DB를 모델링할 수 있으며, 복잡한 쿼리를 SQLAlchemy로 구현할 수 있습니다.
 - Terraform(🌟⭐⭐⭐⭐): 인프라스트럭쳐를 모델링하고 배포를 자동화 할 수 있습니다.
 
-#### Stacks
+### Stacks
 - Communications
   - Bluetooth
   - TCP/IP
