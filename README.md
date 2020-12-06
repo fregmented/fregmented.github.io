@@ -18,7 +18,7 @@ Kotlin을 주로 안드로이드 개발에 사용하고 Flutter로 크로스플�
 - RxAndroid(🌟🌟⭐⭐⭐): Observable을 만들고 예외처리 등을 할 수 있습니다.
 - Flutter(🌟🌟⭐⭐⭐): 커스텀위젯과 iOS 및 Android를 위한 Flutter plugin을 개발할 수 있습니다.
 - Flask(🌟🌟⭐⭐⭐): 서버사이드 렌더링 및 RESTful API 서버를 개발할 수 있습니다.
-- SQLAlchemy(): DB를 모델링할 수 있으며, 복잡한 쿼리를 SQLAlchemy로 구현할 수 있습니다.
+- SQLAlchemy(🌟🌟⭐⭐⭐): DB를 모델링할 수 있으며, 복잡한 쿼리를 SQLAlchemy로 구현할 수 있습니다.
 - Terraform(🌟⭐⭐⭐⭐): 인프라스트럭쳐를 모델링하고 배포를 자동화 할 수 있습니다.
 #### Stacks
 - Communications
