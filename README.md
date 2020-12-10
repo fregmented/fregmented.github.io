@@ -38,6 +38,7 @@ Android X를 적극적으로 이용하여, Constraint Layout, DataBinding, Room,
 유가정보를 얻기 위해 오피넷의 API를 이용하기 위해 RxJava + Retrofit2를 이용한 RestAPI client를 작성하였습니다.  
 유료 API가 아닌 관계로 특정 주유소의 가격정보를 얻어오지는 못하지만, 현재 위치의 시도/시군구별 평균유가를 현시하고 비교할 수 있도록 구성하였습니다.  
 기본적으로 주유기록, 정비기록, 용품구매기록, 법정비용, 보험료를 저장하며, 각 항목별 및 합간 월/연도별 평균 비용을 확인할 수 있고, 최근 주유기록을 통해 연비를 계산할 수 있는 기능을 포함하고 있습니다.  
+
 #### Lotto [Link](https://github.com/fregmented/2019PortfolioAndroid)
 ##### 2019. 07 ~ 2019. 07
 
@@ -115,6 +116,7 @@ realm을 이용한 데이터 저장
 > Flask와 zappa를 이용하여 REST API server 개발.  
 SQLAlchemy를 이용하여 Django orm으로 작성된 레거시 DB ORM을 재구현.  
 zappa를 이용하여 aws lambda에 서버 배포  
+
 #### 주차타워 관리자용 태블릿 애플리케이션 개발
 ##### 2019. 10 ~ 2019. 12
 <img src="/images/no_images.png" width=200 alt="No image available">  
@@ -145,6 +147,7 @@ UART통신을 이용하여 센서 제어 데이터 및 센서 검출 값 송수�
 DAC, ADC 및 PWM을 이용한 센서 컨트롤보드 펌웨어 개발.  
 I2C, UART Peripheral 모드 디바이스  
 발주처 - (주) 와이즈산전  
+
 #### AirFeel 펌웨어 개발
 ##### 2018. 08 ~ 2018. 12
 <img src="/images/airfeel.jpg" width=200 alt="No image available">  
@@ -164,6 +167,7 @@ PMSx003 먼지센서, 온/습도 센서, TVOCs센서 및 CO2센서 사용.
 
 > Kotlin을 이용하여 IoT Platform 커넥션을 위한 SDK 개발
 RSA 암호화를 이용한 보안강화 및 HTTP request를 위한 다이나믹 result model 작성  
+
 #### GLS시리즈 Zigbee 스위치 펌웨어 개발
 ##### 2017. 04 ~ 2017. 11
 <img src="/images/gls_zb.png" width=200 alt="Goqual GLS ZB series wall switch">  
