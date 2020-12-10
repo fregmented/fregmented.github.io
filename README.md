@@ -64,6 +64,8 @@ UX적인 면에서는 Navigation 라이브러리를 사용하여 자연스러운
 
 #### Feet Guider 기능 추가 개발 [Play Store](https://play.google.com/store/apps/details?id=com.feetguider)
 ##### 2020. 06 ~ 2020. 06
+<img src="/images/FeetGuider_1.jpeg" width=300 alt="FeetGuider"> <img src="/images/FeetGuider_2.jpeg" width=300 alt="FeetGuider"> <img src="/images/FeetGuider_3.jpeg" width=300 alt="FeetGuider">
+
 이전에 참여하였던 웨어러블 헬스케어 장비의 안드로이드/iOS 애플리케이션 기능 추가 및 호환성 개선작업
 
 레거시 Social login SDK 를 Firebase Auth로 마이그레이션
@@ -80,8 +82,7 @@ Android support 라이브러리 AndroidX로 마이그레이션
 
 #### 공기청정기 AWS IoT Core 라이브러리 개발
 ##### 2020. 06 ~ 2020. 06
-![No Image available](/images/no_images.png)
-
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 ESP-IDF 환경에서 공통적으로 활용할 수 있는 통신 라이브러리 개발.
 
@@ -95,8 +96,7 @@ Protobuf를 이용한 데이터 모델링
 
 #### 공기청정기 관리 애플리케이션 개발
 ##### 2020. 04 ~ 2020.06
-![No Image available](/images/no_images.png)
-
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 공기청정기 관리를 위한 애플리케이션 개발
 
@@ -108,8 +108,7 @@ Firebase를 이용한 푸쉬메세지 핸들링
 
 #### 공기청정기 관리 서버 개발
 ##### 2020. 02 ~ 2020. 04
-![No Image available](/images/no_images.png)
-
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 공기청정기 관리 및 모니터링을 위한 서버 및 인프라 구축
 
@@ -125,8 +124,7 @@ Vue를 이용한 SPA 프론트엔드 개발
 
 #### 철도장비 모바일 모니터링 앱 개발
 ##### 2020. 01 ~ 2020. 02
-![No Image available](/images/no_images.png)
-
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 철도장비 모니터링을 위한 블루투스 SPP 통신을 하는 안드로이드 애플리케이션 개발.
 
@@ -146,7 +144,7 @@ realm을 이용한 데이터 저장
 
 #### 파프리카 API서버 리뉴얼
 ##### 2019. 10 ~ 2019. 12
-![No Image available](/images/no_images.png)
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 Flask와 zappa를 이용하여 REST API server 개발.
 
@@ -156,7 +154,7 @@ zappa를 이용하여 aws lambda에 서버 배포
 
 #### 주차타워 관리자용 태블릿 애플리케이션 개발
 ##### 2019. 10 ~ 2019. 12
-![No Image available](/images/no_images.png)
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 
 주차타워 관리자를 위한 안드로이드 태블릿 애플리케이션 개발
@@ -171,8 +169,7 @@ Android DataBinding을 이용한 MVVM 디자인패턴 사용
 
 #### 가스 센서 컨트롤 보드 펌웨어 개발
 ##### 2019. 04~ 2019. 06
-![No Image available](/images/no_images.png)
-
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 STM32F0(CortexM0/4kByte SRAM)을 이용하여 고객사 자체 개발 센서 제어 보드 펌웨어 개발
 
@@ -186,8 +183,7 @@ UART통신을 이용하여 센서 제어 데이터 및 센서 검출 값 송수�
 
 #### 화학약품 제어 센서 컨트롤 보드 펌웨어 개발
 ##### 2018. 12 ~ 2019. 01
-![No Image available](/images/no_images.png)
-
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 nuvoton NANO100(CortexM0/8kByte SRAM)을 이용하여 고객사 자체 개발 센서 제어 보드 펌웨어 개발
 
@@ -199,6 +195,8 @@ I2C, UART Peripheral 모드 디바이스
 
 #### AirFeel 펌웨어 개발
 ##### 2018. 08 ~ 2018. 12
+<img src="/images/airfeel.jpg" width=300 alt="No image available">
+
 ESP32를 이용하여 먼지, 온/습도, TVOCs/eCO2, CO2 센서 드라이버 개발.
 
 PMSx003 먼지센서, 온/습도 센서, TVOCs센서 및 CO2센서 사용.
@@ -213,7 +211,7 @@ PMSx003 먼지센서, 온/습도 센서, TVOCs센서 및 CO2센서 사용.
 
 #### GOQUAL IoT Platform SDK 개발(Dropped)
 ##### 2018. 04 ~ 2018. 08
-![No Image available](/images/no_images.png)
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 
 Kotlin을 이용하여 IoT Platform 커넥션을 위한 SDK 개발
@@ -221,13 +219,15 @@ RSA 암호화를 이용한 보안강화 및 HTTP request를 위한 다이나믹 
 
 #### GLS시리즈 Zigbee 스위치 펌웨어 개발
 ##### 2017. 04 ~ 2017. 11
+<img src="/images/gls_zb.png" width=300 alt="Goqual GLS ZB series wall switch">
+
 NXP JN516x 환경에서 Zigbee Pro HA1.2 스택을 이용한 스마트 조명 스위치 개발
 
 코맥스 및 Hejhome 브랜드로 출시 및 판매중
 
 #### 10k 안드로이드 애플리케이션 개발
 ##### 2017. 02 ~ 2017. 04
-![No Image available](/images/no_images.png)
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 
 기 개발제품 제어 애플리케이션 리팩토링
@@ -240,7 +240,7 @@ DataBinding과 Rx를 이용한 동적인 UI 로딩 구현
 
 #### Iot 디바이스와 연동한 실시간 위치추적 솔루션(Dropped)
 ##### 2015. 11 ~ 2016. 10
-![No Image available](/images/no_images.png)
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 
 Flask를 이용한 웹서버 및 웹 프론트엔드 개발
@@ -255,9 +255,7 @@ Highchart를 이용한 이벤트 및 사용 현황 현시
 
 #### Feet Guider 안드로이드 앱 개발 [Play Store](https://play.google.com/store/apps/details?id=com.feetguider)
 ##### 2015. 07 ~ 2015. 11
-![FeetGuider 1](/images/FeetGuider_1.jpeg)
-![FeetGuider 2](/images/FeetGuider_2.jpeg)
-![FeetGuider 3](/images/FeetGuider_3.jpeg)
+<img src="/images/FeetGuider_1.jpeg" width=300 alt="FeetGuider"> <img src="/images/FeetGuider_2.jpeg" width=300 alt="FeetGuider"> <img src="/images/FeetGuider_3.jpeg" width=300 alt="FeetGuider">
 
 Realm을 이용하여 걸음 및 이동거리, 운동 현황 등을 저장
 
@@ -271,9 +269,7 @@ Google+및 Facebook 공유기능 구현
 
 #### 중소기업 지원정보 애플리케이션 개발
 ##### 2015. 05 ~ 2015. 06
-![FeetGuider 1](/images/SUGARAIN_1.jpeg)
-![FeetGuider 2](/images/SUGARAIN_2.jpeg)
-![FeetGuider 3](/images/SUGARAIN_3.jpeg)
+<img src="/images/SUGARAIN_1.jpeg" width=300 alt="FeetGuider"> <img src="/images/SUGARAIN_2.jpeg" width=300 alt="FeetGuider"> <img src="/images/SUGARAIN_3.jpeg" width=300 alt="FeetGuider">
 
 
 XMLRPC를 이용하여 서버와 동기화
@@ -288,7 +284,7 @@ Realm을 이용하여 데이터 저장 및 현시
 
 #### 주파수 도약을 이용한 음원 저작권 보호 시스템
 ##### 2015. 02 ~ 2015. 04
-![No Image available](/images/no_images.png)
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 
 특허등록(10-1636948-0000)
@@ -301,7 +297,7 @@ Realm을 이용하여 데이터 저장 및 현시
 
 #### 음원 스트리밍 서비스 개발(Dropped)
 ##### 2014. 12 ~ 2015. 04
-![No Image available](/images/no_images.png)
+<img src="/images/no_images.png" width=300 alt="No image available">
 
 
 서버에서 음원을 스트리밍 받는 안드로이드 MediaPlayer wrapper 개발
@@ -312,7 +308,7 @@ Realm을 이용하여 데이터 저장 및 현시
 
 #### 대여관리 시스템 개발
 ##### 2014. 10 ~ 2014. 12
-![No Image available](/images/no_images.png)
+<img src="/images/CHARGEBOX.jpeg" width=300 alt="CHARGEBOX">
 
 
 바코드를 이용해 대여 및 반납 관리 안드로이드 앱/서버 제작
