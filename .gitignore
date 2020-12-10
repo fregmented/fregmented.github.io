@@ -1,6 +1,12 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/linux,windows,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=linux,windows,macos
+# Created by https://www.toptal.com/developers/gitignore/api/jekyll,macos,windows,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,macos,windows,linux
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 ### Linux ###
 *~
@@ -72,4 +78,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos
+# End of https://www.toptal.com/developers/gitignore/api/jekyll,macos,windows,linux
