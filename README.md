@@ -80,6 +80,9 @@ Android support 라이브러리 AndroidX로 마이그레이션
 
 #### 공기청정기 AWS IoT Core 라이브러리 개발
 ##### 2020. 06 ~ 2020. 06
+![No Image available](/images/no_images.png)
+
+
 ESP-IDF 환경에서 공통적으로 활용할 수 있는 통신 라이브러리 개발.
 
 WiFi provisioning 관리
@@ -92,6 +95,9 @@ Protobuf를 이용한 데이터 모델링
 
 #### 공기청정기 관리 애플리케이션 개발
 ##### 2020. 04 ~ 2020.06
+![No Image available](/images/no_images.png)
+
+
 공기청정기 관리를 위한 애플리케이션 개발
 
 Flutter를 이용한 멀티플랫폼 구현
@@ -102,6 +108,9 @@ Firebase를 이용한 푸쉬메세지 핸들링
 
 #### 공기청정기 관리 서버 개발
 ##### 2020. 02 ~ 2020. 04
+![No Image available](/images/no_images.png)
+
+
 공기청정기 관리 및 모니터링을 위한 서버 및 인프라 구축
 
 AWS(Lambda, IoT Core, RDS, SQS)를 이용한 서버리스 서비스 구축
@@ -116,6 +125,9 @@ Vue를 이용한 SPA 프론트엔드 개발
 
 #### 철도장비 모바일 모니터링 앱 개발
 ##### 2020. 01 ~ 2020. 02
+![No Image available](/images/no_images.png)
+
+
 철도장비 모니터링을 위한 블루투스 SPP 통신을 하는 안드로이드 애플리케이션 개발.
 
 Kotlin으로 개발
@@ -134,6 +146,8 @@ realm을 이용한 데이터 저장
 
 #### 파프리카 API서버 리뉴얼
 ##### 2019. 10 ~ 2019. 12
+![No Image available](/images/no_images.png)
+
 Flask와 zappa를 이용하여 REST API server 개발.
 
 SQLAlchemy를 이용하여 Django orm으로 작성된 레거시 DB ORM을 재구현.
@@ -142,6 +156,9 @@ zappa를 이용하여 aws lambda에 서버 배포
 
 #### 주차타워 관리자용 태블릿 애플리케이션 개발
 ##### 2019. 10 ~ 2019. 12
+![No Image available](/images/no_images.png)
+
+
 주차타워 관리자를 위한 안드로이드 태블릿 애플리케이션 개발
 
 OKHTTP + Retrofit을 이용해 REST API client interface 구현
@@ -154,6 +171,9 @@ Android DataBinding을 이용한 MVVM 디자인패턴 사용
 
 #### 가스 센서 컨트롤 보드 펌웨어 개발
 ##### 2019. 04~ 2019. 06
+![No Image available](/images/no_images.png)
+
+
 STM32F0(CortexM0/4kByte SRAM)을 이용하여 고객사 자체 개발 센서 제어 보드 펌웨어 개발
 
 I2C 가스센서 제어 및 데이터 취득 펌웨어 개발.
@@ -166,6 +186,9 @@ UART통신을 이용하여 센서 제어 데이터 및 센서 검출 값 송수�
 
 #### 화학약품 제어 센서 컨트롤 보드 펌웨어 개발
 ##### 2018. 12 ~ 2019. 01
+![No Image available](/images/no_images.png)
+
+
 nuvoton NANO100(CortexM0/8kByte SRAM)을 이용하여 고객사 자체 개발 센서 제어 보드 펌웨어 개발
 
 DAC, ADC 및 PWM을 이용한 센서 컨트롤보드 펌웨어 개발.
@@ -190,6 +213,9 @@ PMSx003 먼지센서, 온/습도 센서, TVOCs센서 및 CO2센서 사용.
 
 #### GOQUAL IoT Platform SDK 개발(Dropped)
 ##### 2018. 04 ~ 2018. 08
+![No Image available](/images/no_images.png)
+
+
 Kotlin을 이용하여 IoT Platform 커넥션을 위한 SDK 개발
 RSA 암호화를 이용한 보안강화 및 HTTP request를 위한 다이나믹 result model 작성
 
@@ -201,6 +227,9 @@ NXP JN516x 환경에서 Zigbee Pro HA1.2 스택을 이용한 스마트 조명 �
 
 #### 10k 안드로이드 애플리케이션 개발
 ##### 2017. 02 ~ 2017. 04
+![No Image available](/images/no_images.png)
+
+
 기 개발제품 제어 애플리케이션 리팩토링
 
 WebSocket과 MQTT, TCP Socket을 이용하여 스마트 스위치 제어
@@ -211,6 +240,9 @@ DataBinding과 Rx를 이용한 동적인 UI 로딩 구현
 
 #### Iot 디바이스와 연동한 실시간 위치추적 솔루션(Dropped)
 ##### 2015. 11 ~ 2016. 10
+![No Image available](/images/no_images.png)
+
+
 Flask를 이용한 웹서버 및 웹 프론트엔드 개발
 
 IoT디바이스에서 보내는 TCP 패킷을 파싱하여 RESTful API 포워드 하는 TCP Socket 서버 제작
@@ -223,6 +255,10 @@ Highchart를 이용한 이벤트 및 사용 현황 현시
 
 #### Feet Guider 안드로이드 앱 개발 [Play Store](https://play.google.com/store/apps/details?id=com.feetguider)
 ##### 2015. 07 ~ 2015. 11
+![FeetGuider 1](/images/FeetGuider_1.jpeg)
+![FeetGuider 2](/images/FeetGuider_2.jpeg)
+![FeetGuider 3](/images/FeetGuider_3.jpeg)
+
 Realm을 이용하여 걸음 및 이동거리, 운동 현황 등을 저장
 
 aChartEngine을 이용해 주간, 연간 운동 현황 현시
@@ -235,6 +271,11 @@ Google+및 Facebook 공유기능 구현
 
 #### 중소기업 지원정보 애플리케이션 개발
 ##### 2015. 05 ~ 2015. 06
+![FeetGuider 1](/images/SUGARAIN_1.jpeg)
+![FeetGuider 2](/images/SUGARAIN_2.jpeg)
+![FeetGuider 3](/images/SUGARAIN_3.jpeg)
+
+
 XMLRPC를 이용하여 서버와 동기화
 
 Realm을 이용하여 데이터 저장 및 현시
@@ -247,6 +288,9 @@ Realm을 이용하여 데이터 저장 및 현시
 
 #### 주파수 도약을 이용한 음원 저작권 보호 시스템
 ##### 2015. 02 ~ 2015. 04
+![No Image available](/images/no_images.png)
+
+
 특허등록(10-1636948-0000)
 
 음원 분석 및 데이터 밀도 측정 DSP 개발
@@ -257,6 +301,9 @@ Realm을 이용하여 데이터 저장 및 현시
 
 #### 음원 스트리밍 서비스 개발(Dropped)
 ##### 2014. 12 ~ 2015. 04
+![No Image available](/images/no_images.png)
+
+
 서버에서 음원을 스트리밍 받는 안드로이드 MediaPlayer wrapper 개발
 
 네트워크 상황에 따라 적응하여 트랜스코딩하는 스트리밍 서버 개발
@@ -265,6 +312,9 @@ Realm을 이용하여 데이터 저장 및 현시
 
 #### 대여관리 시스템 개발
 ##### 2014. 10 ~ 2014. 12
+![No Image available](/images/no_images.png)
+
+
 바코드를 이용해 대여 및 반납 관리 안드로이드 앱/서버 제작
 
 위치정보를 이용하여 사용자 맞춤형 광고 알고리즘 개발
