@@ -228,6 +228,7 @@ Realm을 이용하여 데이터 저장 및 현시
 > 서버에서 음원을 스트리밍 받는 안드로이드 MediaPlayer wrapper 개발  
 네트워크 상황에 따라 적응하여 트랜스코딩하는 스트리밍 서버 개발  
 음원 보호 시스템 개발 및 적용  
+
 #### 대여관리 시스템 개발
 ##### 2014. 10 ~ 2014. 12
 <img src="/images/CHARGEBOX.jpeg" width=200 alt="CHARGEBOX">  
