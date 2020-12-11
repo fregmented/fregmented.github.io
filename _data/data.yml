@@ -125,7 +125,16 @@ publications:
       - title: 주파수 도약을 이용한 음원 저작권 보호 시스템
         link: "https://patents.google.com/patent/KR101636948B1"
         authors: (주)에스씨웍스(최윤석, 이한울)
-
+certifications:
+    title: Certifications
+    intro: 자격증입니다.
+    certs:
+      - title: 정보처리기사
+        code: 09403130958B
+      - title: 전자기기기능사
+        code: 19202071314S
+      - title: 일본어능력시험 2급
+        code: 08*1010301-20942
 skills:
     title: Skills &amp; Proficiency
 
