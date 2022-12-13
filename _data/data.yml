@@ -40,9 +40,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        애플리케이션 개발자입니다.  
-        Kotlin을 주로 안드로이드 개발에 사용하고 Flutter로 크로스플랫폼 개발을 합니다.  
-        그리고 서버사이드 API를 파이썬으로 개발하고, ESP32와 STM32, AVR을 타겟으로 임베디드 애플리케이션을 개발합니다.  
+        Android native 및 Flutter를 이용한 애플리케이션 개발을 할 줄 압니다. 애플리케이션의 기능으로는 BLE 및 TCP, REST API, MQTT와 같은 통신 위주의 작업을 하였지만, UI 커스텀 작업 경험도 있습니다.
+        백엔드로는 Spring boot, Flask, Django 등의 웹 프레임워크를 사용할 줄 알고, 라이브 환경에 배포한 경험이 있습니다.
+        주로 사용해 본 인프라로는 AWS ECS, Lambda, RDS, IoT core, Firebase realtime database, Application build suite 등이 있습니다.
         [경력기술서도 있습니다!](/detailed)
 education:
     - degree: 3학년 수료
@@ -51,11 +51,18 @@ education:
       details: |
     - degree: 3학년 편입
       university: 국립방송통신대학교
-      time: 2020 - 2022(졸업예정)
+      time: 2020 - 
       details: |
 experiences:
+    - role: 개발자
+      time: 2021. 11 - 현재
+      details: |
+        풀스택 개발자로서
+        투자자문 서비스 KIWI의 애플리케이션, 백엔드, 백오피스 개발을 진행하였습니다.
+        Flutter 및 Kotlin을 이용하여 애플리케이션 개발하였고,
+        Spring boot / Kotlin과 PostgreSQL을 이용해 백엔드 개발 및 AWS ECS/Fargate를 이용해 서버를 배포 및 운영하였습니다.
     - role: 개인사업자 프리랜서
-      time: 2020. 01 - 현재
+      time: 2020. 01 - 2021. 11
       company: 컬처캠프
       details: |
         개인사업자 프리랜서로서 
@@ -96,27 +103,10 @@ projects:
     intro: >
       사이드/하비 프로젝트와 공개한 오픈소스 프로젝트 리스트입니다.
     assignments:
-      - title: CarAccount[WIP]
-        link: https://github.com/fregmented/CarAccount
+      - title: [Work In Progress project]
+        link: https://github.com/fregmented
         tagline: |
-          개인적으로 차계부를 작성하기 위해 개발하고 있는 애플리케이션입니다.
-          주유기록, 정비기록, 용품구매기록, 법정비용, 보험료를 저장하며, 각 항목별 및 합간 월/연도별 평균 비용을 확인할 수 있고, 최근 주유기록을 통해 연비를 계산할 수 있는 기능을 계획하고 있습니다.
-      - title: Lotto
-        link: https://github.com/fregmented/2019PortfolioAndroid
-        tagline: |
-          기술 시연용으로 개발한 앱으로, 기존 로또 번호를 조회하고 새로운 로또 번호를 만들어 기 회차의 로또 번호와 비교하는 앱으로 대략 3일의 시간동안 구현한 것입니다.
-      - title: SGP30 ESP-IDF Library
-        link: https://github.com/fregmented/SGP30_ESP-IDF
-        tagline: |
-          센시리온사의 SGP30 TVOCs 센서의 ESP32용 라이브러리입니다.
-      - title: BlueCon
-        link: https://github.com/fregmented/BlueCon
-        tagline: |
-          BlueCon은 안드로이드를 위한 BlueTooth SPP acceptor/iniciator 라이브러리입니다.
-      - title: flask-naver
-        link: https://github.com/fregmented/flask-naver
-        tagline: |
-          구 네이버 아이디로 로그인을 지원하는 Flask 플러그인입니다.
+           작업중입니다.
 publications:
     title: Publications & Patents
     intro: |
@@ -130,11 +120,11 @@ certifications:
     intro: 자격증입니다.
     certs:
       - title: 정보처리기사
-        code: 09403130958B
+        code: -
       - title: 전자기기기능사
-        code: 19202071314S
+        code: -
       - title: 일본어능력시험 2급
-        code: 08*1010301-20942
+        code: -
 skills:
     title: Skills &amp; Proficiency
 
