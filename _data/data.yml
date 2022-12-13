@@ -120,11 +120,11 @@ certifications:
     intro: 자격증입니다.
     certs:
       - title: 정보처리기사
-        code: -
+        code: ''
       - title: 전자기기기능사
-        code: -
+        code: ''
       - title: 일본어능력시험 2급
-        code: -
+        code: ''
 skills:
     title: Skills &amp; Proficiency
 
